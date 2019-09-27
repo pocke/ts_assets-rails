@@ -39,7 +39,7 @@
     "@types/react": "^16",
     "@types/react-dom": "^16",
     "enzyme": "^3",
-    "enzyme-adapter-react-16": "^1.1.1",
+    "enzyme-adapter-react-16": "^1.14.0",
     "jest": "^22",
     "react": "^16",
     "react-dom": "^16",
